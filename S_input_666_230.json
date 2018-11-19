@@ -1,0 +1,121 @@
+{
+  "S_Method": "tan",
+  "S_Cluster": "666",
+  "S_API": "231",
+  "S_datapoint" : "1000",
+
+  "S_Surface": {
+    "S_xo": "-100",
+    "S_yo": "200",
+    "S_zo": "0"
+  },
+  "S_Target": {
+    "S_xt": "8300",
+    "S_yt": "-2150",
+    "S_zt": "5600"
+  },
+  "S_section": [
+    {
+      "S_segnum" : "1",
+      "S_MD": "100",
+      "S_I": "1.2",
+      "S_A": "N11.9W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "1"
+    },
+    {
+      "S_segnum" : "2",
+      "S_MD": "600",
+      "S_I": "0.6",
+      "S_A": "N29.1E",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "2"
+    },
+    {
+      "S_segnum" : "3",
+      "S_MD": "1000",
+      "S_I": "0.6",
+      "S_A": "N14.5W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "3"
+    },
+    {
+      "S_segnum" : "4",
+      "S_MD": "1400",
+      "S_I": "0.51",
+      "S_A": "N5.6W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "4"
+    },
+    {
+      "S_segnum" : "5",
+      "S_MD": "1500",
+      "S_I": "0.45",
+      "S_A": "N23.7W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "5"
+    },
+    {
+      "S_segnum" : "6",
+      "S_MD": "1600",
+      "S_I": "1.64",
+      "S_A": "N22.4W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "6"
+    },
+    {
+      "S_segnum" : "7",
+      "S_MD": "1700",
+      "S_I": "1.64",
+      "S_A": "N2.7W",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "7"
+    },
+    {
+      "S_segnum" : "8",
+      "S_MD": "1800",
+      "S_I": "2.39",
+      "S_A": "N0.3E",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "8"
+    },
+    {
+      "S_segnum" : "9",
+      "S_MD": "1900",
+      "S_I": "3.1",
+      "S_A": "N1.6E",
+      "S_D": "5",
+      "S_ForType": "AA",
+      "S_MudType": "Foam",
+      "S_PumpRate": "1000",
+      "S_MudWeight": "9"
+    }
+
+
+
+  ]
+}

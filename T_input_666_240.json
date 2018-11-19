@@ -1,0 +1,111 @@
+{
+  "T_Method": "avg",
+  "T_Cluster": "666",
+  "T_API": "231",
+  "T_datapoint" : "1000",
+
+  "T_Surface": {
+    "T_xo": "500",
+    "T_yo": "500",
+    "T_zo": "0"
+  },
+  "T_Target": {
+    "T_xt": "8300",
+    "T_yt": "-2150",
+    "T_zt": "5600"
+  },
+  "T_KOP": "1201.1",
+  "T_Tolerance": "100",
+  "T_Lead Angle": "0",
+  "T_Angle Hold":"0",
+  "T_Lead Target":"0",
+  "T_section": [
+                {
+                  "T_secnum" : "2",
+                  "T_segment" : "10",
+                  "T_length": "1195.37",
+                  "T_rate_length": "100",
+                  "T_BR": "0.8",
+                  "T_TR": "0",
+                  "T_Lead Angle": "0",
+                  "T_HTR": "0"
+                },
+                {
+                  "T_secnum" : "3",
+                  "T_segment" : "10",
+                  "T_length": "1233.45",
+                  "T_rate_length": "100",
+                  "T_BR": "2.55",
+                  "T_TR": "0",
+                  "T_Lead Angle": "0",
+                  "T_HTR": "0"
+                },
+                {
+                  "T_secnum" : "4",
+                  "T_segment" : "10",
+                  "T_length": "879.7",
+                  "T_rate_length": "100",
+                  "T_BR": "2.94",
+                  "T_TR": "0.35",
+                  "T_Lead Angle": "0",
+                  "T_HTR": "0"
+                },
+                {
+                  "T_secnum" : "5",
+                  "T_segment" : "10",
+                  "T_length": "2670.6",
+                  "T_rate_length": "100",
+                  "T_BR": "0",
+                  "T_TR": "0.75",
+                  "T_Lead Angle": "0",
+                  "T_HTR": "0"
+                },
+    {
+      "T_secnum" : "6",
+      "T_segment" : "10",
+      "T_length": "3174.28",
+      "T_rate_length": "100",
+      "T_BR": "0.77",
+      "T_TR": "-1.83",
+      "T_Lead Angle": "0",
+      "T_HTR": "0"
+    },{
+      "T_secnum" : "7",
+      "T_segment" : "10",
+      "T_length": "195.042",
+      "T_rate_length": "100",
+      "T_BR": "0",
+      "T_TR": "-3.05",
+      "T_Lead Angle": "0",
+      "T_HTR": "0"
+    },{
+      "T_secnum" : "8",
+      "T_segment" : "10",
+      "T_length": "34.4",
+      "T_rate_length": "100",
+      "T_BR": "0",
+      "T_TR": "-6.1",
+      "T_Lead Angle": "0",
+      "T_HTR": "0"
+    },{
+      "T_secnum" : "9",
+      "T_segment" : "10",
+      "T_length": "2594.83",
+      "T_rate_length": "100",
+      "T_BR": "0",
+      "T_TR": "-1.26",
+      "T_Lead Angle": "0",
+      "T_HTR": "0"
+    },{
+      "T_secnum" : "10",
+      "T_segment" : "10",
+      "T_length": "102.12",
+      "T_rate_length": "100",
+      "T_BR": "0",
+      "T_TR": "-4.76",
+      "T_Lead Angle": "0",
+      "T_HTR": "0"
+    }
+
+              ]
+}
